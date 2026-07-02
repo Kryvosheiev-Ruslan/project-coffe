@@ -1,0 +1,22 @@
+
+
+
+
+body{
+    margin: 0;
+    font-family: Raleway, sans-serif;
+    background-color: white;
+}
+.header {
+    height: 400px;
+    background-image: url("../images/Image20260629205227.jpg");
+    background-position: center;
+    /*background-repeat: no-repeat;*/
+    background-size: cover;
+}
+    h1 {
+        font-size: 100px;
+        font-family: "Covered By Your Grace", cursive;
+        color: rgba(3, 155, 100, 0.75);
+        text-align: center;
+    }
